@@ -1,0 +1,12 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+.hover-invert:not(.active):hover {
+    color: white;
+    background: black;
+}
+.jumbotron{
+    background-image: url(/Books-Background-Hd-Wallpaper.jpg);
+    background-position: center;
+    height: 50vh;
+}
